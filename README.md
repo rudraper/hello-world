@@ -1,2 +1,5 @@
 # hello-world
-This is a test project
+
+Hi All,
+
+This is a learning phase.
